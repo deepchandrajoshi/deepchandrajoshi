@@ -21,6 +21,7 @@
 - ⭐ Favorite Players: Rohit Sharma, AB de Villiers, Dale Steyn, Virat Kohli, Rishabh Pant, Jasprit Bumrah, Mitchell Starc  
 - 🎶 Music lover  
 - 📈 Interested in **stock market investments**  
+
 ---
 
 ### 🚀 **Tech Stack**
@@ -61,6 +62,26 @@
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepchandrajoshi&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 🏆 **Profile Enhancements**
+<p align="center">
+  <!-- Visitors Counter -->
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=deepchandrajoshi" alt="visitors" />  
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=deepchandrajoshi&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+<p align="center">
+  <!-- Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=deepchandrajoshi&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=6" alt="trophies" />
+</p>
+
+<p align="center">
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=deepchandrajoshi&theme=react-dark" alt="activity graph" />
 </p>
 
 ---
