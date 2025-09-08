@@ -11,12 +11,16 @@
 
 ---
 
-### 👨‍💻 **About Me**
-- 🌱 I’m currently learning **MERN Stack**  
-- 💻 I enjoy building **responsive and modern web apps**  
-- 🎯 My goal: **To become a Full Stack Developer**  
-- 📍 From **Almora, Uttarakhand, India**
-
+### 👨‍💻 About Me  
+- 💻 Frontend Developer specializing in **ReactJS**  
+- 🌍 Based in **New Delhi, India** | Originally from **Almora, Uttarakhand**  
+- 🌱 Currently learning the **MERN Stack**  
+- 🛠 Passionate about building **responsive, modern, and user-friendly web applications**  
+- 🎯 Goal: To grow into a **Full Stack Developer**  
+- 🏏 Huge cricket enthusiast and a **true fan of Rohit Sharma**  
+- ⭐ Favorite Players: Rohit Sharma, AB de Villiers, Dale Steyn, Virat Kohli, Rishabh Pant, Jasprit Bumrah, Mitchell Starc  
+- 🎶 Music lover  
+- 📈 Interested in **stock market investments**  
 ---
 
 ### 🚀 **Tech Stack**
