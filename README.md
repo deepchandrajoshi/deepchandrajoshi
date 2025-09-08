@@ -46,7 +46,7 @@
 ### 📂 **Featured Projects**
 | Project | Description | Tech Used | Live Demo |
 |---------|-----------|-----------|-----------|
-| **Portfolio Website** | My personal portfolio website showcasing my skills and projects | HTML, CSS, JS | [🔗 View](https://deepchandrajoshi.github.io) |
+| **Portfolio Website** | My personal portfolio website showcasing my skills and projects | HTML, CSS, JS | [🔗 View](https://deepchandrajoshi.github.io/portfolio/) |
 | **React Web App** | A modern ReactJS-based app | React, TailwindCSS | Coming Soon |
 | **MERN Project** | Full-stack app with authentication | MERN | Coming Soon |
 
