@@ -1,8 +1,8 @@
-## Hi there 👋, I'm @DeepChandraJoshii
+<h1 align=""center">## Hi there 👋, I'm @DeepChandraJoshii</h1>
 
 ### 🚀 About Me
 - 💻 Frontend Developer specializing in **ReactJS**
-- 🌍 Based in **New Delhi, India**
+- 🌍 Based in **New Delhi, India** | Originally from **Almora, Uttarakhand** 
 - 🎥 Sci-fi movie enthusiast and **cricket** fan
 - 🎶 Music lover
 - 📈 Dabble in **stock market** investments
