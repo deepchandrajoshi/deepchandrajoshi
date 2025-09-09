@@ -96,7 +96,7 @@
 ---
 
 ### 📄 Resume
-- 📌 [View My Resume](https://drive.google.com/file/d/1Jp8n8Ombd4m9ekBczJ6Bxz-b33wW0Ixs/view?usp=sharing)  
+- 📌 [View My Resume](https://drive.google.com/file/d/1orwsTG5qS9fpGEeoXYIehbQgCyRvXx6c/view?usp=sharing)  
 
 ---
 
