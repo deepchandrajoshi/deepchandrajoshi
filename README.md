@@ -95,15 +95,8 @@
 
 ---
 
-### 🔄 Automatically Updating Sections
-<!-- BLOG-POST-LIST:START -->
-- Coming soon: Latest blogs, YouTube videos, and GitHub activity will appear here automatically  
-<!-- BLOG-POST-LIST:END -->
-
----
-
 ### 📄 Resume
-- 📌 [View My Resume](https://deep-chandra-joshi.netlify.app/resume.pdf)  
+- 📌 [View My Resume](https://drive.google.com/file/d/1Jp8n8Ombd4m9ekBczJ6Bxz-b33wW0Ixs/view?usp=sharing)  
 
 ---
 
